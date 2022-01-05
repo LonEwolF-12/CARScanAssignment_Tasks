@@ -7,3 +7,5 @@ Important liabraries to be imported.
 3). requests
 4). cv2
 5). math
+
+Please instal all the required liabraries into the system.
